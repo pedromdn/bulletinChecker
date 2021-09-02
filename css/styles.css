@@ -1,0 +1,14 @@
+#res{
+    position: relative;
+    text-align: center;
+    height: 100px; 
+    background-color: rgb(240, 240, 240);
+    border:5px ;
+    border-bottom: 0px;
+    border-color:aqua; 
+   
+    font-size: 14px;
+    
+    width:100%;margin:-3px;border:2px 
+
+}
